@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+pymupdf
+python-dotenv
+flask
+flask-cors
+
