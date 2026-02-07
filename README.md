@@ -30,22 +30,22 @@ Unlike standard AI summarizers, this tool injects **Traceability Beacons** (`[[P
 
 ##  Key Features
 
-- **Zero-Trust Traceability**  
+- **Zero-Trust Traceability:**  
   Every key point is linked to a specific paragraph ID (e.g., `[[P1_5]]`), ensuring verifiable and source-bound intelligence.
 
-- **Structured Intelligence**  
+- **Structured Intelligence:**  
   Outputs strict JSON data categorized into **Operational**, **Financial**, and **Legal** risks for machine and human readability.
 
-- **Smart Compression**  
+- **Smart Compression:**  
   Calculates real-time compression ratios (e.g., `10x` reduction) while retaining all critical contextual signals.
 
-- **Meta-Analysis Engine**  
+- **Meta-Analysis Engine:**  
   Automatically detects and reports **omitted themes**, assigning an Impact Score — **Low (grey)**, **Medium (orange)**, or **High (red)** — to missing context.
 
-- **Vector-Grounded Q&A**  
+- **Vector-Grounded Q&A:**  
   Provides a chat interface that answers questions **strictly from the document**, citing paragraph tags as evidence.
 
-- **CoreOps UI**  
+- **CoreOps UI:**  
   A custom-built **Dark Mode** interface optimized for clarity, speed, and long-session readability.
 
 
