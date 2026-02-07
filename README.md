@@ -19,8 +19,8 @@ Unlike standard AI summarizers, this tool injects **Traceability Beacons** (`[[P
 ### 1. The Executive Dashboard
 *Real-time metrics for Risks, Source Coverage, and Compression Ratio.*
 
-![<img width="1441" height="752" alt="image" src="https://github.com/user-attachments/assets/2e6f03b6-9ac8-4470-8de7-cf02e4ccecd1" />
-](docs/dashboard_screenshot.png)
+[<img width="1441" height="752" alt="image" src="https://github.com/user-attachments/assets/2e6f03b6-9ac8-4470-8de7-cf02e4ccecd1" />
+
 
 ### 2. Source Verification (Traceability)
 *Clicking a "Source" button instantly reveals the original paragraph from the PDF.*
