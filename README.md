@@ -30,12 +30,12 @@ Unlike standard AI summarizers, this tool injects **Traceability Beacons** (`[[P
 
 ##  Key Features
 
-*Zero-Trust Traceability:* Every key point is linked to a specific paragraph ID (e.g., `[[P1_5]]`).
-* * Structured Intelligence:** Outputs strict JSON data, categorized into **Operational**, **Financial**, and **Legal** risks.
-* ** Smart Compression:** Calculates real-time compression ratios (e.g., 10x reduction) while retaining critical context.
-* ** Meta-Analysis Engine:** Automatically detects and reports **omitted themes**, assigning an "Impact Score" (Low(grey)/Medium(orange)/High(red)) to what was left out.
-* ** Vector-Grounded Q&A:** A chat interface that answers questions based *strictly* on the document, citing tags as proofs.
-* ** CoreOps UI:** A custom-styled "Dark Mode" interface built for readability and speed.
+**Zero-Trust Traceability:** Every key point is linked to a specific paragraph ID (e.g., `[[P1_5]]`).
+**Structured Intelligence:** Outputs strict JSON data, categorized into **Operational**, **Financial**, and **Legal** risks.
+**Smart Compression:** Calculates real-time compression ratios (e.g., 10x reduction) while retaining critical context.
+**Meta-Analysis Engine:** Automatically detects and reports **omitted themes**, assigning an "Impact Score" (Low(grey)/Medium(orange)/High(red)) to what was left out.
+**Vector-Grounded Q&A:** A chat interface that answers questions based *strictly* on the document, citing tags as proofs.
+**CoreOps UI:** A custom-styled "Dark Mode" interface built for readability and speed.
 
 ## 👥 NeuralForge
 
